@@ -48,7 +48,7 @@
     "iotagent-node-lib": "https://github.com/telefonicaid/iotagent-node-lib.git",
     "jison": "0.4.17",
     "logops": "^1.0.0",
-    "mongoose": "4.13.17",
+    "mongoose": "5.7.5",
     "mu2": "^0.5.20",
     "mustache": "2.2.1",
     "node-opcua": "2.1.8",
